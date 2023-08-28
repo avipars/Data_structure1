@@ -18,39 +18,13 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Client.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="HashTbls.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Volunteer.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Client.h">
+    <ClInclude Include="HuffmanTreeNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="HashClient.h">
+    <ClInclude Include="HuffmanTree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="HashTble.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="HashTbls.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="HashVolunteer.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Volunteer.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\תרגיל 2 - טבלאות גיבוב.docx">
-      <Filter>Resource Files</Filter>
-    </None>
   </ItemGroup>
 </Project>
