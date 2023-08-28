@@ -145,6 +145,9 @@
     <ClInclude Include="HuffmanTree.h" />
     <ClInclude Include="HuffmanTreeNode.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\תרגיל ריצה 4 הופמן (4).docx" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
