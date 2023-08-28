@@ -25,6 +25,14 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "targil4", "targil4\targil4.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "targil5", "targil5\targil5.vcxproj", "{E9C37B5A-4ABD-4F3E-8318-91D80A1903DC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A72A90F3-2961-4A55-99E4-A8C37600E21F}"
+	ProjectSection(SolutionItems) = preProject
+		תרגיל 2 - טבלאות גיבוב.docx = תרגיל 2 - טבלאות גיבוב.docx
+		תרגיל ריצה 4 הופמן (4).docx = תרגיל ריצה 4 הופמן (4).docx
+		תרגיל ריצה 5 גרפים (1).docx = תרגיל ריצה 5 גרפים (1).docx
+		תרגיל ריצה מספר 3 - עצי TRIE (5).docx = תרגיל ריצה מספר 3 - עצי TRIE (5).docx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64

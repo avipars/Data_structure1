@@ -14,4 +14,18 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\תרגיל 2 - טבלאות גיבוב.docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\תרגיל ריצה 4 הופמן (4).docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\תרגיל ריצה 5 גרפים (1).docx">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\תרגיל ריצה מספר 3 - עצי TRIE (5).docx">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
