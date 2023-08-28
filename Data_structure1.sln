@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "targil5", "targil5", "{4D55
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "targil1", "targil1\targil1.vcxproj", "{D95C87B6-5C33-421E-A0B1-4807EFCC143D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "targil2", "targil2\targil2.vcxproj", "{021754E5-D2EB-40AF-8680-EB5F6D9B8243}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,12 +43,21 @@ Global
 		{D95C87B6-5C33-421E-A0B1-4807EFCC143D}.Release|x64.Build.0 = Release|x64
 		{D95C87B6-5C33-421E-A0B1-4807EFCC143D}.Release|x86.ActiveCfg = Release|Win32
 		{D95C87B6-5C33-421E-A0B1-4807EFCC143D}.Release|x86.Build.0 = Release|Win32
+		{021754E5-D2EB-40AF-8680-EB5F6D9B8243}.Debug|x64.ActiveCfg = Debug|x64
+		{021754E5-D2EB-40AF-8680-EB5F6D9B8243}.Debug|x64.Build.0 = Debug|x64
+		{021754E5-D2EB-40AF-8680-EB5F6D9B8243}.Debug|x86.ActiveCfg = Debug|Win32
+		{021754E5-D2EB-40AF-8680-EB5F6D9B8243}.Debug|x86.Build.0 = Debug|Win32
+		{021754E5-D2EB-40AF-8680-EB5F6D9B8243}.Release|x64.ActiveCfg = Release|x64
+		{021754E5-D2EB-40AF-8680-EB5F6D9B8243}.Release|x64.Build.0 = Release|x64
+		{021754E5-D2EB-40AF-8680-EB5F6D9B8243}.Release|x86.ActiveCfg = Release|Win32
+		{021754E5-D2EB-40AF-8680-EB5F6D9B8243}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{D95C87B6-5C33-421E-A0B1-4807EFCC143D} = {817572F1-4A49-4000-9EFF-F4A02121BE6F}
+		{021754E5-D2EB-40AF-8680-EB5F6D9B8243} = {AF99C099-C195-49C8-9E2E-6C5B9B4D4ACD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {25EA1412-B7F4-443F-B600-2B8E7EB388B4}
